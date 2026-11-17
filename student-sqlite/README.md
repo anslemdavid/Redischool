@@ -17,4 +17,5 @@ Vom Repository-Hauptordner aus ausführen:
 python .\student-sqlite\main.py
 ```
 
-Die Datei `students.db` wird automatisch neben `main.py` erstellt.
+Die Beispieldatenbank `students.db` liegt neben `main.py`. Falls du sie
+löschst, wird sie beim nächsten Start mit den Beispieldaten neu erstellt.
